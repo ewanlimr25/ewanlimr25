@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewanlimr25
 - 👀 I’m interested in Data analysis and Machine learning/AI
-- 🌱 I’m currently learning Java Spring, GCP, 
+- 🌱 I’m currently learning Java Spring, Python, TensorFlow, GCP 
 - 💞️ I’m looking to collaborate on algorithms, data analysis, machine learning/ai
 - 📫 How to reach me ewanlimr25@gmail.com
 
